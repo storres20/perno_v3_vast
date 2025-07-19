@@ -1,7 +1,7 @@
 task: segment
 mode: train
 model: yolov8s-seg.pt
-data: C:/Windows/Users/HP/PycharmProjects/perno_v3_vast/data.yaml
+data: data.yaml
 epochs: 100
 time: null
 patience: 100

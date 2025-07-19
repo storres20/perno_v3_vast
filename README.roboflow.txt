@@ -1,8 +1,8 @@
 
-perno - v3 2025-07-15 6:45pm
+perno - v6 2025-07-18 7:13am
 ==============================
 
-This dataset was exported via roboflow.com on July 17, 2025 at 2:15 AM GMT
+This dataset was exported via roboflow.com on July 18, 2025 at 12:33 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,7 +17,7 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 40 images.
+The dataset includes 21 images.
 Objects are annotated in YOLOv8 format.
 
 The following pre-processing was applied to each image:

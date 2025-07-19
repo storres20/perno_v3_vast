@@ -8,6 +8,6 @@ names: ['vastago']
 roboflow:
   workspace: italo-u1li4
   project: perno
-  version: 3
+  version: 6
   license: CC BY 4.0
-  url: https://universe.roboflow.com/italo-u1li4/perno/dataset/3
+  url: https://universe.roboflow.com/italo-u1li4/perno/dataset/6

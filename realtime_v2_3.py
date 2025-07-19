@@ -4,7 +4,7 @@ import numpy as np
 import math
 
 model = YOLO("runs/segment/perno_seg_v12/weights/best.pt")
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(1)
 
 cuadro_real_mm = 23.0
 min_ancho_vastago = None  # mínimo ancho actual (solo mientras el vástago está en escena)

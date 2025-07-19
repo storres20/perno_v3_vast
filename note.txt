@@ -1,0 +1,12 @@
+en este proyecto he usado imagenes conmigo sosteniendo el perno y en la imagen salgo yo,
+objetos alrededor y mi mano sosteniendo el perno
+
+al hacer la inferencia en tiempo real
+es un poco lento debido a que se usó yolov8s
+
+ademas cuando se intentó hacer inferencia con la camara logi y el perno de muy cerca
+el modelo no detectaba el perno
+recien al alejar el perno de la camara recien detectaba el objeto
+
+por ese motivo se ha tomado 20 fotos adicionales para reentrenar el modelo
+verificar el proyecto perno_v4
